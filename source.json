@@ -27,7 +27,7 @@
 		"appName": "Minecraft",
 		"appVersion": "1.20",
 		"appImage": "http://gbox.10085.ink/static/head2.png",
-		"appPackage": "http://gbox.10085.ink/static/test.ipa",
+		"appPackage": "https://cdn.iosvizor.com/minecraft-pe/Minecraft-PE-v1.20.10.ipa",
 		"appDescription": "intruduce"
 	}]
 }
