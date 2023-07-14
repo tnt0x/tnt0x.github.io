@@ -1,0 +1,33 @@
+{
+	"version": "1.0",
+	"sourceName": "测试软件源",
+	"sourceAuthor": "Muster",
+	"sourceLinkTitle": "官网",
+	"sourceLinkUrl": "http://gbox.10085.ink",
+	"sourceImage": "http://gbox.10085.ink/static/head.png",
+	"sourceUpdateTime": "2022-11-23T11:00:00+0800",
+	"sourceDescription": "这里为源介绍（可自行添加内容）",
+	"appCategories": [
+		"分类1",
+		"分类2"
+	],
+	"appRepositories": [{
+		"appType": "LINK",
+		"appCateIndex": 0,
+		"appUpdateTime": "2023-6-24T9:30:00+0800",
+		"appName": "超链接",
+		"appVersion": "1.0",
+		"appImage": "http://gbox.10085.ink/static/head.png",
+		"appLink": "https://baidu.com",
+		"appDescription": "超链接，可放自己的连接"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-6-24T9:30:00+0800",
+		"appName": "应用",
+		"appVersion": "1.0",
+		"appImage": "http://gbox.10085.ink/static/head2.png",
+		"appPackage": "http://gbox.10085.ink/static/test.ipa",
+		"appDescription": "intruduce"
+	}]
+}
