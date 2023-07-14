@@ -38,5 +38,14 @@
 		"appImage": "https://tnt0x.github.io/Facebook.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/FacebookPlus_145_0_v1_6r-35.ipa",
 		"appDescription": "intruduce"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-15T9:30:00+0800",
+		"appName": "Twitter",
+		"appVersion": "9.3",
+		"appImage": "https://tnt0x.github.io/Facebook.PNG",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Twitter_9.3.ipa",
+		"appDescription": "intruduce"
 	}]
 }
