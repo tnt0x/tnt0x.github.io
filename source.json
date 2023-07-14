@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"sourceName": "测试软件源",
+	"sourceName": "TNT0X REPO",
 	"sourceAuthor": "Muster",
 	"sourceLinkTitle": "官网",
 	"sourceLinkUrl": "http://gbox.10085.ink",
@@ -24,8 +24,8 @@
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
 		"appUpdateTime": "2023-6-24T9:30:00+0800",
-		"appName": "应用",
-		"appVersion": "1.0",
+		"appName": "Minecraft",
+		"appVersion": "1.20",
 		"appImage": "http://gbox.10085.ink/static/head2.png",
 		"appPackage": "http://gbox.10085.ink/static/test.ipa",
 		"appDescription": "intruduce"
