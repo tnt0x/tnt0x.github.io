@@ -8,8 +8,8 @@
 	"sourceUpdateTime": "2022-11-23T11:00:00+0800",
 	"sourceDescription": "这里为源介绍（可自行添加内容）",
 	"appCategories": [
-		"分类1",
-		"分类2"
+		"Link",
+		"Apps"
 	],
 	"appRepositories": [{
 		"appType": "LINK",
