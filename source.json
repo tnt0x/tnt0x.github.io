@@ -56,5 +56,14 @@
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98_%E4%BC%9A%E5%91%98%E7%89%88_11.14.0.ipa",
 		"appDescription": "intruduce"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-15T9:30:00+0800",
+		"appName": "Google Chrome",
+		"appVersion": "61.3163.73",
+		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Chrome.PNG",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Chrome-v61-3163-73.ipa",
+		"appDescription": "intruduce"
 	}]
 }
