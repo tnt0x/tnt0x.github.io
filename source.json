@@ -74,5 +74,14 @@
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/TikTok.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/TikTok_v30.3.0.ipa",
 		"appDescription": "intruduce"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-15T9:30:00+0800",
+		"appName": "FilzaJailed",
+		"appVersion": "3.1",
+		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Filza.PNG",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/FilzaJailed_v3_1.ipa",
+		"appDescription": "intruduce"
 	}]
 }
