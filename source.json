@@ -90,7 +90,7 @@
 		"appName": "UTM",
 		"appVersion": "4.2.5",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Filza.PNG",
-		"appPackage": "https://github.com/utmapp/UTM/releases/latest/download/UTM.ipa",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/UTM.ipa",
 		"appDescription": "intruduce"
 	}, {
 		"appType": "ENT_SIGN",
