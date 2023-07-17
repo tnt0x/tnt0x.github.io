@@ -27,8 +27,8 @@
 		"appName": "Minecraft",
 		"appVersion": "1.20.10",
 		"appImage": "https://tnt0x.github.io/IMG_0098.png",
-		"appPackage": "https://cdn.iosvizor.com/minecraft-pe/Minecraft-PE-v1.20.10.ipa",
-		"appDescription": "intruduce"
+		"appPackage": "https://github.com/tnt0x/file/releases/download/test/Minecraft-PE-v1.20.10.ipa",
+		"appDescription": "Other Link https://cdn.iosvizor.com/minecraft-pe/Minecraft-PE-v1.20.10.ipa"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
