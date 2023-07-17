@@ -89,7 +89,7 @@
 		"appUpdateTime": "2023-7-17T9:30:00+0800",
 		"appName": "UTM",
 		"appVersion": "4.2.5",
-		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Filza.PNG",
+		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/UTM.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/UTM.ipa",
 		"appDescription": "intruduce"
 	}, {
@@ -98,7 +98,7 @@
 		"appUpdateTime": "2023-7-17T9:30:00+0800",
 		"appName": "UTM SE",
 		"appVersion": "4.2.5",
-		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Filza.PNG",
+		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/UTM.PNG",
 		"appPackage": "https://github.com/utmapp/UTM/releases/latest/download/UTM.SE.ipa",
 		"appDescription": "intruduce"
 	}]
