@@ -137,5 +137,14 @@
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Xina.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/XinaA12.1.1.6.2.ipa",
 		"appDescription": "intruduce"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-14T9:30:00+0800",
+		"appName": "Minecraft",
+		"appVersion": "1.2.15",
+		"appImage": "https://tnt0x.github.io/IMG_0098.png",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Minecraft-v1-2-15.ipa",
+		"appDescription": "intruduce"
 	}]
 }
