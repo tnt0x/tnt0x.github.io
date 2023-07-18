@@ -128,5 +128,14 @@
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/unc0ver.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/unc0ver_Release_8.0.2.ipa",
 		"appDescription": "intruduce"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-18T9:30:00+0800",
+		"appName": "XinaA15",
+		"appVersion": "1.1.6.2",
+		"appImage": "https://gbox.run/Public/appicons/Xina.png",
+		"appPackage": "https://gbox.lanzoub.com/iQr8a0lsdwni",
+		"appDescription": "intruduce"
 	}]
 }
