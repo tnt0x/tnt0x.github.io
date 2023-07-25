@@ -136,7 +136,7 @@
 		"appVersion": "8.0.2",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/unc0ver.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/unc0ver_Release_8.0.2.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://unc0ver.dev"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
@@ -154,6 +154,15 @@
 		"appVersion": "4.3.8",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/GBox.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/GBox_v4.3.8.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://gbox.pub"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-25T9:30:00+0800",
+		"appName": "轻松签 ESign",
+		"appVersion": "4.3.8",
+		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/ESign.png",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/esign_4.8.2_unsigned.ipa",
+		"appDescription": "官网 https://esign.yyyue.xyz"
 	}]
 }
