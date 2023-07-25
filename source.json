@@ -19,7 +19,7 @@
 		"appVersion": "1.0",
 		"appImage": "http://gbox.10085.ink/static/head.png",
 		"appLink": "https://tnt0x.github.io/",
-		"appDescription": "官网"
+		"appDescription": "TNT0X 官网"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
@@ -46,7 +46,7 @@
 		"appVersion": "145",
 		"appImage": "https://tnt0x.github.io/Facebook.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/FacebookPlus_145_0_v1_6r-35.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://facebook.com"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
