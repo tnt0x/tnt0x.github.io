@@ -55,7 +55,7 @@
 		"appVersion": "9.3",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Twitter.png",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Twitter_9.3.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://twitter.com"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
@@ -73,7 +73,7 @@
 		"appVersion": "61.3163.73",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Chrome.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Chrome-v61-3163-73.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://www.google.cn/chrome/"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
@@ -82,7 +82,7 @@
 		"appVersion": "30.3.0",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/TikTok.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/TikTok_v30.3.0.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://tiktok.com"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
