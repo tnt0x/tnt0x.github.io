@@ -118,7 +118,7 @@
 		"appVersion": "5.3.3",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/Procreate.PNG",
 		"appPackage": "https://github.com/tnt0x/file/releases/download/T/Procreate-v5-3-3.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://procreate.com"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
@@ -127,7 +127,7 @@
 		"appVersion": "18.17.2",
 		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/YouTube_.PNG",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/YouTube_v18.17.2.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://youtube.com"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
