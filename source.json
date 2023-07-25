@@ -28,7 +28,7 @@
 		"appVersion": "1.20.10",
 		"appImage": "https://tnt0x.github.io/IMG_0098.png",
 		"appPackage": "https://github.com/tnt0x/file/releases/download/test/Minecraft-PE-v1.20.10.ipa",
-		"appDescription": "Other Link https://cdn.iosvizor.com/minecraft-pe/Minecraft-PE-v1.20.10.ipa"
+		"appDescription": "Other Link https://cdn.iosvizor.com/minecraft-pe/Minecraft-PE-v1.20.10.ipa\n官网 https://minecraft.net"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
@@ -37,7 +37,7 @@
 		"appVersion": "1.2.15",
 		"appImage": "https://tnt0x.github.io/IMG_0098.png",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Minecraft-v1-2-15.ipa",
-		"appDescription": "intruduce"
+		"appDescription": "官网 https://minecraft.net"
 	}, {
 		"appType": "ENT_SIGN",
 		"appCateIndex": 1,
