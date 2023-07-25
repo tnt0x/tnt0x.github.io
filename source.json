@@ -146,5 +146,14 @@
 		"appImage": "https://tnt0x.github.io/IMG_0098.png",
 		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/Minecraft-v1-2-15.ipa",
 		"appDescription": "intruduce"
+	}, {
+		"appType": "ENT_SIGN",
+		"appCateIndex": 1,
+		"appUpdateTime": "2023-7-25T9:30:00+0800",
+		"appName": "GBox",
+		"appVersion": "4.3.8",
+		"appImage": "https://bitbucket.org/tnt0x/photo/downloads/GBox.PNG",
+		"appPackage": "https://bitbucket.org/tnt0x/1/downloads/GBox_v4.3.8.ipa",
+		"appDescription": "intruduce"
 	}]
 }
